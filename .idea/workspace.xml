@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/consolephoto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/coolphoto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fugeretrevin/Portfolio.git",
+    "accountId": "f68f5f7b-ab3a-4c12-a8c7-51c27f48eb5c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -34,7 +33,7 @@
     "JavaScript Debug.index.html.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio/images",
     "node.js.detected.package.eslint": "true",
@@ -67,7 +66,7 @@
       <updated>1742337869799</updated>
       <workItem from="1742337871218" duration="9242000" />
       <workItem from="1745372225579" duration="2582000" />
-      <workItem from="1746807019945" duration="11753000" />
+      <workItem from="1746807019945" duration="12065000" />
     </task>
     <servers />
   </component>
