@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/consolephoto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolphoto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -19,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2uVdqtyxBUSBsSxAYvFrdUKUiES" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +36,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio",
+    "last_opened_file_path": "C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +45,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stoof\OneDrive\Documents\GitHub\Portfolio\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,6 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742337869799</updated>
       <workItem from="1742337871218" duration="9242000" />
+      <workItem from="1745372225579" duration="2582000" />
+      <workItem from="1746807019945" duration="11753000" />
     </task>
     <servers />
   </component>

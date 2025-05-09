@@ -20,7 +20,7 @@
     justify-content: center;
     justify-self: center;
     width: 100vw;
-    max-width: 1150px;
+    max-width: 1050px;
     position: absolute;
     top: 60px;
 
@@ -34,12 +34,13 @@
     justify-content: center;
     align-items: center;
     width: 40%;
-    max-width: 550px;
+    max-width: 500px;
     min-width: 350px;
     height: calc(35vw * 1.25);
     color: beige;
     font-size: 20px ;
-    max-height: 325px;
+    max-height: 300px;
+    min-height: 300px;
     margin: 25px;
     border: solid rgba(50,50,50, .5) 3px;
     backdrop-filter: blur(2px);
@@ -50,14 +51,16 @@
 }
 .cat-icon > div{
     color: wheat;
-    margin: 30px;
     padding-right: 10px;
+    padding-bottom: 30px;
+    bottom: 20px;
 }
 .icon-picture {
-    height: 150px;
-    width: 150px;
+    height: auto;
+    max-height: 200px;
+    max-width: 300px;
     justify-content: left;
-    margin: 40px;
+    margin: 25px 30px;
     align-self: center;
     border-radius: 25px;
 }
@@ -68,16 +71,21 @@
 
 }
 .landing-page-sub-block{
+    animation: fade-in 2s;
+
     width: 50%;
     min-height: 20%;
-    max-width: 400px;
+    max-width: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     background-color: rgba(50,50,50,0.7);
     border-radius: 15px;
-    padding: 50px;
+    padding: 50px 20px;
+    padding-bottom: 60px;
+
+
     backdrop-filter: blur(1px);
 
 }
@@ -86,26 +94,62 @@
     align-content: center;
     text-align: center;
     font-family: 'Catchy-Mager', sans-serif;
-    font-size: 50px;
-    animation: fade-in 2s;
+    font-size: 47px;
+    opacity: 0;
+    animation: fade-up 2s forwards;
+    animation-delay: 1s;
+
     color: rgba(232,220,202,0.9);
 }
 .subtitle-text {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    opacity: 0;
+    animation: fade-in 3s forwards;
+    animation-delay: 2.5s;
+
+    padding: 20px;
+    align-self: center;
+    text-align: center;
+    font-family: 'Catchy-Mager', sans-serif;
+    font-size: 25px;
+    white-space: pre-wrap;
+    margin: 0 auto;
+
+
+    color: rgba(232,220,202,0.7);
+
+}
+.subtitle-text-2 {
+    opacity: 0;
+    animation: fade-in 2s forwards;
+    animation-delay: 4.5s;
+
+    padding-bottom: 10px;
     align-self: center;
     align-content: center;
     text-align: center;
     font-family: 'Catchy-Mager', sans-serif;
     font-size: 25px;
-    animation: fade-in 2s;
+
+
+
     color: rgba(232,220,202,0.7);
 
 }
 .nested-text {
+
     color: beige;
 }
 #learn-more {
-    animation: fade-up 3s;
+    opacity: 0;
+    animation: fade-up 3s forwards;
+    animation-delay: 5.5s;
 
+    font-family: 'Catchy-Mager', sans-serif;
     background-color: darkslategray;
     color: white;
     text-decoration: none;
@@ -114,8 +158,9 @@
     font-weight: bold;
     transition: .7s;
     margin-top: 20px;
-    width: 125px;
-    height: 45px;
+    width: 175px;
+    height: 65px;
+    font-size: 16px;
 
 }
 #learn-more:hover, .cat-icon:hover {
@@ -132,8 +177,10 @@
     flex-flow: column;
     background-color: lightslategray;
     background-image: url("./images/black-sand.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
+
+
 
 
 
@@ -422,15 +469,20 @@ body {
 @keyframes fade-up {
 
     0% {color-interpolation: auto}
-    40% {transform: translate(0,100%); }
+    0% {transform: translate(0,100%); }
     100% {transform: translate(0, 0%); }
     0% { opacity: 0}
-    40% { opacity: 0; }
     100% { opacity: 1; }
 }
 
 @keyframes fade-in {
+
     0% { opacity: 0}
+    100% { opacity: 1; }
+}
+@keyframes delay-fade-in {
+    0% { opacity: 0}
+    40% { opacity: 0; }
     100% { opacity: 1; }
 }
 #get-started {
