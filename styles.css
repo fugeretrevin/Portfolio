@@ -265,7 +265,7 @@ body {
 
 }
 
-.item-icon:hover, .key-moment-icon:hover {
+.item-icon:hover {
     transform: scale(1.05);
     cursor: pointer;
     .click-change {
@@ -273,8 +273,16 @@ body {
 
     }
 }
+.key-moment-icon:hover {
+    transform: scale(1.05);
+    cursor: auto;
+    .click-change {
+        transform: scale(1.25);
 
-.
+    }
+}
+
+
 .item-title {
     margin: 20px;
     margin-bottom: 30px;
@@ -311,11 +319,20 @@ body {
     align-items: center;
 }
 .general-head-text {
+
     font-family: Catchy-Mager, sans-serif;
     font-size: 45px;
     color: beige;
     margin: 40px;
     text-align: center;
+    background-color: rgb(0,0,0,0.2);
+    background-image: linear-gradient(to right, rgba(24,138,141, 0.4), rgba(96,201,142, 0.4));
+    box-shadow: rgba(96,201,142, 0.2) 0 0 5px;
+    justify-self: center;
+    align-content: center;
+    height: 100px;
+
+    width: 100%;
 }
 .general-head-image {
     align-self: center;
@@ -331,6 +348,13 @@ body {
     color: black;
     margin: 15px;
 
+}
+
+.project-description {
+    font-family: Catchy-Mager, sans-serif;
+    font-size: 20px;
+    color: beige;
+    margin: 15px;
 }
 .head-bar {
     position: fixed;
@@ -361,6 +385,7 @@ body {
 }
 .key-moments-bar {
     border-top: solid black 5px;
+    border-bottom: solid black 5px;
     background-color: rgb(50,50,50);
     width: 100%;
     display: flex;
@@ -377,21 +402,36 @@ body {
     width: 250px;
     height: 250px;
     margin: 25px;
+    border-radius: 25px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     transition: .3s;
     position: relative;
+    border: solid rgba(70,50,50,.7) 3px;
 }
 .key-image {
-    width: 80%;
+    width: 75%;
     height: auto;
     border-radius: 10px;
-    border: solid rgba(50,50,50,.5) 3px;
+    border: solid rgba(0,0,0,.5) 3px;
     position: absolute;
 }
+.key-subtitle {
+    position: relative;
+    bottom: -90px;
+    background-color: lightsteelblue;
+    border-top: solid rgba(50,50,50,.5) 3px;
+    border-bottom: solid rgba(50,50,50,.5) 3px;
+
+
+    width: 100%;
+    text-align: center;
+
+}
 .cover {
-    width: 80%;
+
+    width: 75%;
     height: auto;
     border-radius: 10px;
     border: solid rgba(50,50,50,.5) 3px;
