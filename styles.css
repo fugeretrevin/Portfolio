@@ -198,7 +198,7 @@ body {
 
 }
 
-.music-body {
+.gui-body {
 
     margin: 0;
     background-image: url("./images/music-option-2.jpg");
@@ -208,7 +208,7 @@ body {
     background-position-x: calc(50%);
 
 }
-.writing-body {
+.console-body {
     margin: 0;
     background-image: url("./images/writing-option-12.jpg");
     background-repeat: repeat-x;
@@ -218,7 +218,7 @@ body {
     background-position-x: calc(50%);
 
 }
-.media-body {
+.other-body {
     margin: 0;
     background-image: url("./images/media-option-5.jpg");
     background-repeat: repeat;
@@ -227,7 +227,7 @@ body {
     background-position-x: calc(50% + 90px);
 
 }
-.music-item-container {
+.item-container {
     animation: fade-up 2s;
     animation-delay: -0.75s;
     margin: 50px;
@@ -241,13 +241,15 @@ body {
     max-width: 1200px;
 
 }
-.music-item-icon {
+.item-icon {
     animation: blur-smooth 2s;
     animation-delay: .4s;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: center;
+    text-align: center;
     width: 40%;
     max-width: 550px;
     height: calc(35vw * 1.25);
@@ -262,30 +264,8 @@ body {
     background-color: rgba(47, 79, 79, .6);
 
 }
-.writing-item-icon {
-    animation: blur-smooth 2s;
-    animation-delay: .4s;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 40%;
-    max-width: 550px;
-    height: calc(35vw * 1.25);
-    color: beige;
-    font-size: 20px ;
-    max-height: 500px;
-    margin: 25px;
-    border: solid rgba(50,0,0, .5) 3px;
-
-    backdrop-filter: blur(2px);
-    border-radius: 25px;
-    transition: .5s;
-    background-color: rgba(251,241,218, .2);
-
-}
-.music-item-icon:hover, .writing-item-icon:hover, .media-item-icon, .key-moment-icon:hover {
+.item-icon:hover, .key-moment-icon:hover {
     transform: scale(1.05);
     cursor: pointer;
     .click-change {
@@ -294,33 +274,8 @@ body {
     }
 }
 
-.media-item-icon {
-
-    animation: blur-smooth 2s;
-    animation-delay: .4s;
-
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 40%;
-    max-width: 550px;
-    height: calc(35vw * 1.25);
-    color: beige;
-    font-size: 20px ;
-    max-height: 500px;
-    margin: 25px;
-    border: solid rgba(0,0,20, .5) 3px;
-
-    backdrop-filter: blur(2px);
-    border-radius: 25px;
-    transition: .5s;
-    background-color: rgba(251,241,218, .2);
-
-}
+.
 .item-title {
-    display: flex;
     margin: 20px;
     margin-bottom: 30px;
     align-self: center;
@@ -329,7 +284,6 @@ body {
     font-size: 20px;
 }
 .item-description {
-    display: flex;
     margin: 20px;
     margin-bottom: 30px;
     align-self: center;
@@ -337,7 +291,7 @@ body {
     justify-self: center;
     font-size: 15px;
 }
-.console-icon-image {
+.icon-image {
     height: 55%;
     width: 80%;
     max-height: calc(calc(35vw * 1.25)*.6);

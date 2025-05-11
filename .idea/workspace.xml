@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="Updating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/console-projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/gui-projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top-music.html" beforeDir="false" afterPath="$PROJECT_DIR$/gui-projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top-visual-media.html" beforeDir="false" afterPath="$PROJECT_DIR$/other-products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/console-projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +42,7 @@
   "keyToString": {
     "JavaScript Debug.categories.html.executor": "Debug",
     "JavaScript Debug.console-projects.html.executor": "Run",
+    "JavaScript Debug.gui-projects.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,7 +79,7 @@
       <updated>1742337869799</updated>
       <workItem from="1742337871218" duration="9242000" />
       <workItem from="1745372225579" duration="2582000" />
-      <workItem from="1746807019945" duration="17229000" />
+      <workItem from="1746807019945" duration="19639000" />
     </task>
     <task id="LOCAL-00001" summary="Updating">
       <option name="closed" value="true" />
