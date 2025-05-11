@@ -381,10 +381,26 @@ body {
     justify-content: center;
     flex-direction: column;
     transition: .3s;
+    position: relative;
 }
 .key-image {
     width: 80%;
-    height: 80%;
+    height: auto;
+    border-radius: 10px;
+    border: solid rgba(50,50,50,.5) 3px;
+    position: absolute;
+}
+.cover {
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    border: solid rgba(50,50,50,.5) 3px;
+    position: absolute;
+    transition: opacity 0.3s ease;
+
+}
+.cover:hover {
+    opacity: 0;
 }
 .audio-controls {
     width: 20%;
