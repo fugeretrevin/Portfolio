@@ -201,7 +201,7 @@ body {
 .gui-body {
 
     margin: 0;
-    background-image: url("./images/music-option-2.jpg");
+    background-image: url("./images/black-sand.jpg");
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: cover;
@@ -210,7 +210,7 @@ body {
 }
 .console-body {
     margin: 0;
-    background-image: url("./images/writing-option-12.jpg");
+    background-image: url("./images/black-sand.jpg");
     background-repeat: repeat-x;
     background-attachment: fixed;
     background-size: cover;
@@ -220,11 +220,12 @@ body {
 }
 .other-body {
     margin: 0;
-    background-image: url("./images/media-option-5.jpg");
-    background-repeat: repeat;
+    background-image: url("./images/black-sand.jpg");
+    background-repeat: repeat-x;
     background-attachment: fixed;
     background-size: cover;
-    background-position-x: calc(50% + 90px);
+    background-position-y: center;
+    background-position-x: calc(50%);
 
 }
 .item-container {
@@ -355,6 +356,52 @@ body {
     font-size: 20px;
     color: beige;
     margin: 15px;
+}
+.about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.about-text {
+    font-family: Catchy-Mager, sans-serif;
+    font-size: 20px;
+    color: beige;
+    width: 70%;
+    margin-left: 25px;
+}
+.links-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 25px;
+    align-items: flex-start;
+}
+.links-item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    align-content: center;
+    transition: 0.3s;
+    justify-content: flex-start;
+    transform-origin: left top;
+    width: fit-content;
+
+}
+.links-item > img {
+    width: 25px;
+    height: auto;
+    margin-right: 10px;
+}
+.links-item-text {
+    font-family: Catchy-Mager, sans-serif;
+    font-size: 20px;
+    color: beige;
+}
+.links-item:hover {
+    cursor: pointer;
+    transform: scale(1.05);
 }
 .head-bar {
     position: fixed;

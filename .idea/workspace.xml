@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="Updating">
-      <change afterPath="$PROJECT_DIR$/project-pages/image-processor-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-pages/minesweeper-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-pages/sudoku-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-pages/various-projects-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/console-projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/gui-projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-pages/olga-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-pages/olga-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "fugeretrevin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fugeretrevin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/fugeretrevin/Portfolio.git",
-    "accountId": "f68f5f7b-ab3a-4c12-a8c7-51c27f48eb5c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fugeretrevin/Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;f68f5f7b-ab3a-4c12-a8c7-51c27f48eb5c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,27 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.categories.html.executor": "Debug",
-    "JavaScript Debug.console-projects.html.executor": "Run",
-    "JavaScript Debug.gui-projects.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.olga-page.html.executor": "Debug",
-    "JavaScript Debug.other-products.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio/project-pages",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.categories.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.console-projects.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.gui-projects.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.olga-page.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.other-products.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio/project-pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\stoof\OneDrive\Documents\GitHub\Portfolio\project-pages" />
@@ -89,7 +83,8 @@
       <updated>1742337869799</updated>
       <workItem from="1742337871218" duration="9242000" />
       <workItem from="1745372225579" duration="2582000" />
-      <workItem from="1746807019945" duration="29510000" />
+      <workItem from="1746807019945" duration="33920000" />
+      <workItem from="1747021280212" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="Updating">
       <option name="closed" value="true" />
