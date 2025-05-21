@@ -286,7 +286,8 @@ body {
 
 .item-title {
     margin: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     align-self: center;
     text-align: center;
     justify-self: center;
@@ -299,13 +300,16 @@ body {
     text-align: center;
     justify-self: center;
     font-size: 15px;
+
 }
 .icon-image {
     height: 55%;
-    width: 80%;
+    width: auto;
+    max-width: 80%;
     max-height: calc(calc(35vw * 1.25)*.6);
     margin: 20px;
-
+    margin-top: 50px;
+    margin-bottom: 10px;
     justify-self: flex-start;
     align-self: center;
     border: solid rgba(0,0,0,.3) 3px;
@@ -355,7 +359,8 @@ body {
     font-family: Catchy-Mager, sans-serif;
     font-size: 20px;
     color: beige;
-    margin: 15px;
+    margin: 0 30px 30px 30px;
+    max-width: 75%;
 }
 .about-container {
     display: flex;
@@ -457,9 +462,15 @@ body {
     position: relative;
     border: solid rgba(70,50,50,.7) 3px;
 }
+.gray-background {
+    background-color: darkgrey;
+}
 .key-image {
-    width: 75%;
+    max-height: 60%;
+    width: auto;
+    max-width: 75%;
     height: auto;
+    margin-bottom: 25px;
     border-radius: 10px;
     border: solid rgba(0,0,0,.5) 3px;
     position: absolute;
@@ -478,8 +489,12 @@ body {
 }
 .cover {
 
-    width: 75%;
+    max-height: 60%;
+    width: auto;
+    max-width: 75%;
     height: auto;
+    margin-bottom: 25px;
+
     border-radius: 10px;
     border: solid rgba(50,50,50,.5) 3px;
     position: absolute;
