@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="Updating">
-      <change afterPath="$PROJECT_DIR$/project-pages/space-habitat-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other-products.html" beforeDir="false" afterPath="$PROJECT_DIR$/other-products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-pages/image-processor-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-pages/image-processor-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-pages/language-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-pages/language-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-pages/sudoku-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-pages/sudoku-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,7 @@
     "JavaScript Debug.minesweeper-page.html.executor": "Debug",
     "JavaScript Debug.olga-page.html.executor": "Debug",
     "JavaScript Debug.other-products.html.executor": "Debug",
+    "JavaScript Debug.sudoku-page.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
