@@ -247,7 +247,7 @@ body {
     animation-delay: .4s;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     align-content: center;
     text-align: center;
@@ -263,7 +263,7 @@ body {
     border-radius: 25px;
     transition: .5s;
     background-color: rgba(47, 79, 79, .6);
-
+    box-sizing: border-box;
 }
 
 .item-icon:hover {
@@ -282,38 +282,48 @@ body {
 
     }
 }
+.item-icon a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+}
 
-
-.item-title {
-    margin: 20px;
+.item-text {
     margin-top: 10px;
-    margin-bottom: 20px;
-    align-self: center;
-    text-align: center;
-    justify-self: center;
+    margin-bottom: 50px;
+
+
+}
+.item-title {
     font-size: 20px;
+    margin-bottom: 10px;
 }
 .item-description {
-    margin: 20px;
-    margin-bottom: 30px;
-    align-self: center;
-    text-align: center;
-    justify-self: center;
+
     font-size: 15px;
+    padding: 0 10px;
 
 }
 .icon-image {
-    height: 55%;
+    display: flex;
+    height: auto;
     width: auto;
     max-width: 80%;
-    max-height: calc(calc(35vw * 1.25)*.6);
-    margin: 20px;
-    margin-top: 50px;
-    margin-bottom: 10px;
-    justify-self: flex-start;
+    max-height: calc(calc(35vw * 1.25)*.5);
+    justify-self: center;
     align-self: center;
     border: solid rgba(0,0,0,.3) 3px;
     border-radius: 25px;
+    margin: 50px auto 20px;
+    flex-grow: 1;
+
+
+
 }
 .general-page {
     margin-top: 40px;
