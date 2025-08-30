@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7dc7eba-45b1-46ba-9cab-9f515e108152" name="Changes" comment="Updating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-pages/language-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-pages/language-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,9 @@
       <workItem from="1753202665480" duration="606000" />
       <workItem from="1753730630741" duration="1666000" />
       <workItem from="1753741703526" duration="2348000" />
-      <workItem from="1753979341591" duration="663000" />
+      <workItem from="1753979341591" duration="1761000" />
+      <workItem from="1756431787684" duration="187000" />
+      <workItem from="1756512307690" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="Updating">
       <option name="closed" value="true" />
