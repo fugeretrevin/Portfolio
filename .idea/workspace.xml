@@ -38,37 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.categories.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.console-projects.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.gui-projects.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.language-page.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.minesweeper-page.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.olga-page.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.other-products.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.sudoku-page.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/stoof/OneDrive/Documents/GitHub/Portfolio/project-pages&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.about.html.executor": "Debug",
+    "JavaScript Debug.categories.html.executor": "Debug",
+    "JavaScript Debug.console-projects.html.executor": "Run",
+    "JavaScript Debug.gui-projects.html.executor": "Debug",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.language-page.html.executor": "Run",
+    "JavaScript Debug.minesweeper-page.html.executor": "Debug",
+    "JavaScript Debug.olga-page.html.executor": "Debug",
+    "JavaScript Debug.other-products.html.executor": "Debug",
+    "JavaScript Debug.sudoku-page.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/stoof/source/repos/study-buddy-backend-fork",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\stoof\OneDrive\Documents\GitHub\Portfolio\project-pages" />
       <recent name="C:\Users\stoof\OneDrive\Documents\GitHub\Portfolio\images" />
+      <recent name="C:\Users\stoof\OneDrive\Documents\GitHub\Portfolio\project-pages" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -100,9 +100,17 @@
       <workItem from="1753202665480" duration="606000" />
       <workItem from="1753730630741" duration="1666000" />
       <workItem from="1753741703526" duration="2348000" />
+<<<<<<< HEAD
       <workItem from="1753979341591" duration="663000" />
       <workItem from="1763500768852" duration="477000" />
       <workItem from="1763501374089" duration="1418000" />
+=======
+      <workItem from="1753979341591" duration="1761000" />
+      <workItem from="1756431787684" duration="187000" />
+      <workItem from="1756512307690" duration="747000" />
+      <workItem from="1757452828193" duration="207000" />
+      <workItem from="1760286996300" duration="59000" />
+>>>>>>> a05da8ac404d6d1084d0cf86c63f16190b73f289
     </task>
     <task id="LOCAL-00001" summary="Updating">
       <option name="closed" value="true" />
